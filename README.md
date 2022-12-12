@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ I’m currently working on IT Support
+- 🌱 I’m currently learning Cloud and Cyber Security
+- 👯 I’m looking to collaborate on Making Tech Content
+- 💬 Ask me about Windows and Linus
+- 📫 How to reach me: https://codme.org
 <!--
 **MrAAGO/MrAAGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
