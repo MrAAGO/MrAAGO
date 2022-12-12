@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipin Uprety</h1>
 <h3 align="center">A passionate It Professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mraago&label=Profile%20views&color=0e75b6&style=flat" alt="mraago" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mraago" alt="mraago" /></a> </p>
-
 - 🔭 I’m currently working on **It Support**
 
 - 🌱 I’m currently learning **Cloud and Cyber Security**
@@ -13,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Cyber Security Projects**
 
-- 📝 I regularly write articles on [Internet Technology](Internet Technology)
+- 📝 I regularly write articles on [https://codme.org/blog](https://codme.org/blog)
 
 - 💬 Ask me about **Windows and Linux**
 
