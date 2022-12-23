@@ -18,13 +18,7 @@
 - 📄 Know about my experiences [Experience in Linux and Windows Environments](Experience in Linux and Windows Environments)
 
 <h1 align="center">👨‍💻 Information Technology Projects:</h1>
-<h3 align="center">Microsoft Window Server</h3>
-
-<h4 align="center"> <a href="https://medium.com/@Beepin/how-to-install-window-server-2019-and-configure-domain-controller-d1dab823c203">Installing Window Server 2019 And Configuring Domain Controller. </a> </h4>
-
-<h4 align="center"> <a href="https://medium.com/@Beepin/configuring-dns-forwarder-in-windows-server-2019-fbe51ec316b1">Configuring DNS Forwarder in Windows Server 2019. </a> </h4>
-
-<h4 align="center"> <a href="https://medium.com/@Beepin/install-and-configure-an-ssl-certificate-for-exchange-2019-141f976dfde0">Install and Configure an SSL certificate for Exchange 2019. </a> </h4>
+<h4 align="center"> <a href="https://github.com/MrAAGO/Configuring-On-premises-Server-And-Client-Within-HyperV">Configuring On premises Window Server 2019 And Client Window PC And Mac</a> </h4>
 
 
 <h3 align="left">Connect with me:</h3>
