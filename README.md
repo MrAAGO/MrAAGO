@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Cyber Security Projects**
 
-- 📝 I regularly write articles on [https://codme.org/blog](https://codme.org/blog) And [https://medium.com/@Beepin](https://medium.com/@Beepin)
+- 📝 I regularly write articles on(https://codme.org/blog) And [https://medium.com/@Beepin](https://medium.com/@Beepin)
 
 - 💬 Ask me about **Windows and Linux**
 
