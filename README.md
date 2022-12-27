@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Windows and Linux**
 
-- 📫 How to reach me **https://codme.org** **https://medium.com/@Beepin**
+- 📫 How to reach me **** **https://medium.com/@Beepin**
 
 - 📄 Know about my experiences [Experience in Linux and Windows Environments](Experience in Linux and Windows Environments)
 
