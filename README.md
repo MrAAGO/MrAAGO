@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **It Support**
 
-- 🌱 I’m currently learning **Cloud and Cyber Security**
+- 🌱 I’m currently learning **Cloud and Security**
 
 - 👯 I’m looking to collaborate on **Making Tech Video**
 
