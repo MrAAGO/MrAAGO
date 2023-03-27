@@ -24,6 +24,10 @@
 
 <h4 align="center"> <a href="https://github.com/MrAAGO/Linux-Administration/blob/main/README.md">Linux Projects</a> </h4>
 
+<h1 align="center">👨‍💻Secutity Projects:</h1>
+
+<h4 align="center"> <a href="https://github.com/MrAAGO/>OSINT: Gathering Intelligence with Spiderfoot and Kali</a> </h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mraago&show_icons=true&locale=en" alt="mraago" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mraago&" alt="mraago" /></p>
+
+
