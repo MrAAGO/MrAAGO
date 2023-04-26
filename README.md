@@ -23,7 +23,7 @@
 <h4 align="center"> <a href="https://github.com/MrAAGO/Exchange-Server-2019">Microsoft Exchange Server 2019</a> </h4>
 
 <h4 align="center"> <a href="https://github.com/MrAAGO/Linux-Administration/blob/main/README.md">Linux Projects</a> </h4>
-<h4 align="center"> <a href="https://github.com/MrAAGO/Linux-Administration/blob/main/README.md">Web And DNS Server Deployment</a> </h4>
+<h4 align="center"> <a href="https://github.com/MrAAGO/Web-And-Dns-server-Deployment">Web And DNS Server Deployment</a> </h4>
 
 <h1 align="center">👨‍💻Secutity Projects:</h1>
 <h4 align="center"> <a href="https://github.com/MrAAGO/>OSINT: Gathering Intelligence with Spiderfoot and Kali</a> </h4>
