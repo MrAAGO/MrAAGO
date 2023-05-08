@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Making Tech Video**
 
-- 🤝 I’m looking for help with **Cyber Security Projects**
+- 🤝 I’m looking for help with **Cloud and Security Projects**
 
 - 📝 I regularly write articles on And [https://medium.com/@Beepin](https://medium.com/@Beepin)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **** **https://medium.com/@Beepin**
 
-- 📄 Know about my experiences [Experience in Linux and Windows Environments](Experience in Linux and Windows Environments)
+- 📄 Know about my experiences (Experience in Linux and Windows Environments)
 
 <h1 align="center">👨‍💻 Information Technology Projects:</h1>
 
